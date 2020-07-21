@@ -1,0 +1,19 @@
+{
+    "name": "itsbitsy_M4_LED_test",
+    "description": "",
+    "dependencies": {
+        "adafruit-itsybitsy-m4-express": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
